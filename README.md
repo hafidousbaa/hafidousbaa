@@ -1,6 +1,12 @@
 ### Hi there friends 👋
 
 <!--
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=hafidousbaa&show_icons=true&theme=tokyonight" 
+/>
+-->
+
+<!--
 **hafidousbaa/hafidousbaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
