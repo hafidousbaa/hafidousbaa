@@ -3,7 +3,7 @@
 ![github](./H1.jpg)
 
 
-
+![hafid GitHub stats](https://github-readme-stats.vercel.app/api?username=hafidousbaa&show_icons=true&theme=transparent)
 
 <!--
 ![hafid GitHub stats](https://github-readme-stats.vercel.app/api?username=hafidousbaa&show_icons=true&theme=transparent)
