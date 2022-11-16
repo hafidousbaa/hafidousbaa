@@ -1,9 +1,9 @@
 ### Hi there friends 👋
                                                           DEVOPS ENGINEER
-![github](./H1.jpg)
 
 
 
+![](lounge-male-marketer-working-on-laptop-with-analytics-board-in-the-background.png)
 
 
 <!--
