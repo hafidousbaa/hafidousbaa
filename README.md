@@ -3,7 +3,8 @@
                                                   Practice, Practice, Practice!!!
 
 
-![](lounge-male-marketer-working-on-laptop-with-analytics-board-in-the-background.png)
+   <img src="juicy-workflow.png"  width="300" >   <img src="lounge-male-marketer-working-on-laptop-with-analytics-board-in-the-background.png" width="300" > <img src="juicy-digital-marketing-strategy.png"  width="300" >
+
 
 
 <!--
