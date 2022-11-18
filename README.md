@@ -1,6 +1,6 @@
 ### Hi there friends 👋
                                                           DEVOPS ENGINEER
-                                                  Practice, Practice, Practice!!!
+                                                
 
 
 <img src="juicy-workflow.png"  width="200" >  <img src="lounge-male-marketer-working-on-laptop-with-analytics-board-in-the-background.png" width="300"> <img src="juicy-digital-marketing-strategy.png"  width="200" >
