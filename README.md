@@ -5,10 +5,10 @@
 
 <img src="juicy-workflow.png"  width="200" >  <img src="lounge-male-marketer-working-on-laptop-with-analytics-board-in-the-background.png" width="300"> <img src="juicy-digital-marketing-strategy.png"  width="200" >
 
-
+<!--
 ![hafid GitHub stats](https://github-readme-stats.vercel.app/api?username=hafidousbaa&show_icons=true&theme=transparent)
 
-<!--
+
 
 
 ![github](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?w=1200)
