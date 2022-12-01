@@ -14,6 +14,8 @@
 ![github](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?w=1200)
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img 
    src="https://github-readme-stats.vercel.app/api?username=hafidousbaa&show_icons=true&theme=tokyonight" 
 />
